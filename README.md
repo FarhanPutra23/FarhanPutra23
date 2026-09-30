@@ -1,6 +1,6 @@
-# Hello World! ✨ I'm Farhan Putra ✨
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/0121c6a6-e3e2-4aa1-885b-440577a05dc0" />
 
-## 💫 About Me
+# 💫 About Me
 💻 Interested in Software Engineering, Backend Development, & Data Analysis<br>🌱 Currently Studying Go, Python, R, Data Structures, & Algorithms<br>📍 Bandung, Indonesia<br>🎓 S1 Informatics @Telkom University
 
 ## 🌐 Socials:
