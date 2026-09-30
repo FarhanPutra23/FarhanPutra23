@@ -3,7 +3,7 @@
 # 💫 About Me
 💻 Interested in Software Engineering, Backend Development, & Data Analysis<br>🌱 Currently Studying Go, Python, R, Data Structures, & Algorithms<br>📍 Bandung, Indonesia<br>🎓 S1 Informatics @Telkom University
 
-## 🌐 Socials:
+# 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-putra-maulana-0a2969394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadfpm@student.telkomuniversity.ac.id) 
 
 # 💻 Tech Stack:
